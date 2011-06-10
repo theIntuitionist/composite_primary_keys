@@ -1,3 +1,6 @@
+= JUST A TEST.  Don't use this repo
+
+
 = Composite Primary Keys for ActiveRecords
 
 == Summary
